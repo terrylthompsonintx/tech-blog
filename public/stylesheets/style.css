@@ -1,3 +1,20 @@
 ul {
     list-style: none
 }
+
+body{
+    background-color: beige;
+}
+
+nav li {
+    display: inline;
+  }
+
+ nav a  {
+    
+    padding: 8px;
+    
+  }} 
+nav{
+  background-color: #dddddd;
+}
